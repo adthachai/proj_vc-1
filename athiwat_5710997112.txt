@@ -1,0 +1,7 @@
+<html>
+<body>
+<h1>Lab2</h1>
+<p>Owner File is Mr.Athiwat Suwannakum Number 5710997112</p>
+<p>Sawadee</p>
+</body>
+</html>
